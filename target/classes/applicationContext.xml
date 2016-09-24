@@ -17,7 +17,7 @@
 						http://www.springframework.org/schema/tx/spring-tx-4.2.xsd">
 
 	<import resource="classpath:hibernateContext.xml" />
-
+	<context:component-scan base-package="ar.edu.grupoesfera.cursospring.controladores"/>
 	<mvc:annotation-driven />
 	<aop:aspectj-autoproxy />
 	<tx:annotation-driven transaction-manager="transactionManager" />
