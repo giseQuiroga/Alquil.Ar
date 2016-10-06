@@ -2,18 +2,31 @@ package ar.edu.grupoesfera.cursospring.modelo;
 
 public class PersonaDTO {
 	private String nombre;
-	private String apellido;
-	
+	private String email;
+	private String pass;
+	private String confirmPass;
 	public String getNombre() {
 		return nombre;
 	}
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
 	}
-	public String getApellido() {
-		return apellido;
+	public String getEmail() {
+		return email;
 	}
-	public void setApellido(String apellido) {
-		this.apellido = apellido;
+	public void setEmail(String email) {
+		this.email = email;
+	}
+	public String getPass() {
+		return pass;
+	}
+	public void setPass(String pass) {
+		this.pass = pass;
+	}
+	public String getConfirmPass() {
+		return confirmPass;
+	}
+	public void setConfirmPass(String confirmPass) {
+		this.confirmPass = confirmPass;
 	}
 }

@@ -38,10 +38,10 @@
           				<div class="aa-signin-area">
             				<div class="aa-signin-form">
               					<div class="aa-signin-form-title">
-                					<a class="aa-property-home" href="index.html">Crear cuenta de usuario</a>
+                					<p class="aa-property-home">Crear cuenta de usuario</p>
                 					<span></span>
               					</div>
-              					<form:form class="contactform" action="saludo" method="POST" modelAttribute="usuario">                                                 
+              					<form:form class="contactform" action="/../proyecto-base-spring" method="POST" modelAttribute="usuario">                                                 
                 					<div class="aa-single-field">
                   						<label for="name">Nombre <span class="required">*</span></label>
                   						<form:input type="text" name="name" path="nombre"/>

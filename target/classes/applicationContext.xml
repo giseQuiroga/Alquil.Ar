@@ -18,6 +18,7 @@
 
 	<import resource="classpath:hibernateContext.xml" />
 	<context:component-scan base-package="ar.edu.grupoesfera.cursospring.controladores"/>
+	<context:component-scan base-package="ar.edu.grupoesfera.cursospring.servicios"/>
 	<mvc:annotation-driven />
 	<aop:aspectj-autoproxy />
 	<tx:annotation-driven transaction-manager="transactionManager" />
