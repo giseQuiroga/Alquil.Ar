@@ -41,4 +41,13 @@ public class FormRegistroController {
 		return new ModelAndView("formRegistro", model);
 		
 	}
+	
+	@RequestMapping("/ingreso")
+	public ModelAndView formIngreso() {
+		propiedad.CrearPropiedad();
+		ModelMap model = new ModelMap();
+		model.put("usuario", new PersonaDTO());
+		return new ModelAndView("formIngreso", model);
+		
+	}
 }

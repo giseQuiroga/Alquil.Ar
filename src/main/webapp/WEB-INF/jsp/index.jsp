@@ -56,7 +56,7 @@
 	              				<div class="col-md-6 col-sm-6 col-xs-6">
 	                				<div class="aa-header-right">
 	                  					<a href="registro" class="aa-register">Registrarse</a>
-	                  					<a href="login" class="aa-login">Ingresar</a>
+	                  					<a href="ingreso" class="aa-login">Ingresar</a>
 	                				</div>
 	              				</div>
 	            			</div>
@@ -795,6 +795,7 @@
 	  	<!-- Add fancyBox -->        
 	  	<script type="text/javascript" src="js/jquery.fancybox.pack.js"></script>
 	  	<!-- Custom js -->
-	  	<script src="js/custom.js"></script> 
+	  	<script src="js/custom.js"></script>
+	  	
   	</body>
 </html>
