@@ -124,7 +124,7 @@
             				<h2 class="aa-top-slider-title">Malabia 2400</h2>
             				<p class="aa-top-slider-location"><i class="fa fa-map-marker"></i>Palermo, Palermo</p>
             				<p class="aa-top-slider-price">$8,500.-</p>
-            				<a href="#" class="aa-top-slider-btn">Más Info. <span class="fa fa-angle-double-right"></span></a>
+            				<a href="detalle" class="aa-top-slider-btn">Más Info. <span class="fa fa-angle-double-right"></span></a>
           				</div>
           				<!-- / Top slider content -->
         			</div>
@@ -139,7 +139,7 @@
             				<h2 class="aa-top-slider-title">Malabia 2400</h2>
             				<p class="aa-top-slider-location"><i class="fa fa-map-marker"></i>Palermo, Palermo</p>
             				<p class="aa-top-slider-price">$8,500.-</p>
-            				<a href="#" class="aa-top-slider-btn">Más Info. <span class="fa fa-angle-double-right"></span></a>
+            				<a href="detalle" class="aa-top-slider-btn">Más Info. <span class="fa fa-angle-double-right"></span></a>
           				</div>
           				<!-- / Top slider content -->
         			</div>
@@ -154,7 +154,7 @@
             				<h2 class="aa-top-slider-title">Malabia 2400</h2>
 				            <p class="aa-top-slider-location"><i class="fa fa-map-marker"></i>Palermo, Palermo</p>
 				            <p class="aa-top-slider-price">$8,500.-</p>
-				            <a href="#" class="aa-top-slider-btn">Más Info. <span class="fa fa-angle-double-right"></span></a>
+				            <a href="detalle" class="aa-top-slider-btn">Más Info. <span class="fa fa-angle-double-right"></span></a>
           				</div>
           				<!-- / Top slider content -->
         			</div>
@@ -169,7 +169,7 @@
 				            <h2 class="aa-top-slider-title">Malabia 2400</h2>
 				            <p class="aa-top-slider-location"><i class="fa fa-map-marker"></i>Palermo, Palermo</p>
 				            <p class="aa-top-slider-price">$8,500.-</p>
-				            <a href="#" class="aa-top-slider-btn">Más Info. <span class="fa fa-angle-double-right"></span></a>
+				            <a href="detalle" class="aa-top-slider-btn">Más Info. <span class="fa fa-angle-double-right"></span></a>
 				       	</div>
           				<!-- / Top slider content -->
         			</div>
@@ -184,7 +184,7 @@
 				            <h2 class="aa-top-slider-title">Malabia 2400</h2>
 				            <p class="aa-top-slider-location"><i class="fa fa-map-marker"></i>Palermo, Palermo</p>
 				            <p class="aa-top-slider-price">$8,500.-</p>
-				            <a href="#" class="aa-top-slider-btn">Más Info. <span class="fa fa-angle-double-right"></span></a>
+				            <a href="detalle" class="aa-top-slider-btn">Más Info. <span class="fa fa-angle-double-right"></span></a>
 				        </div>
           				<!-- / Top slider content -->
         			</div>
@@ -199,7 +199,7 @@
 				            <h2 class="aa-top-slider-title">Malabia 2400</h2>
 				            <p class="aa-top-slider-location"><i class="fa fa-map-marker"></i>Palermo, Palermo</p>
 				            <p class="aa-top-slider-price">$8,500.-</p>
-				            <a href="#" class="aa-top-slider-btn">Más Info. <span class="fa fa-angle-double-right"></span></a>
+				            <a href="detalle" class="aa-top-slider-btn">Más Info. <span class="fa fa-angle-double-right"></span></a>
           				</div>
           				<!-- / Top slider content -->
         			</div>
@@ -341,7 +341,7 @@
                     						<span class="aa-price">
                       							$6.600.-
                     						</span>
-                    						<a href="#" class="aa-secondary-btn">Ver más detalles</a>
+                    						<a href="detalle" class="aa-secondary-btn">Ver más detalles</a>
                   						</div>
                 					</div>
               					</article>
@@ -376,7 +376,7 @@
 						                    <span class="aa-price">
 						                      	$5.200.-
 						                    </span>
-                    						<a href="#" class="aa-secondary-btn">Ver más detalles</a>
+                    						<a href="detalle" class="aa-secondary-btn">Ver más detalles</a>
                   						</div>
                 					</div>
               					</article>
@@ -411,7 +411,7 @@
 	                    					<span class="aa-price">
 	                      						$3.000.-
 	                    					</span>
-	                    						<a href="#" class="aa-secondary-btn">Ver más detalles</a>
+	                    						<a href="detalle" class="aa-secondary-btn">Ver más detalles</a>
                   						</div>
                 					</div>
               					</article>
@@ -446,7 +446,7 @@
 						                    <span class="aa-price">
 						                     	$4.500.-
 						                    </span>
-                    						<a href="#" class="aa-secondary-btn">Ver más detalles</a>
+                    						<a href="detalle" class="aa-secondary-btn">Ver más detalles</a>
                   						</div>
                 					</div>
               					</article>
@@ -481,7 +481,7 @@
                     						<span class="aa-price">
                       							$3.600.-
                     						</span>
-                    						<a href="#" class="aa-secondary-btn">Ver más detalles</a>
+                    						<a href="detalle" class="aa-secondary-btn">Ver más detalles</a>
                   						</div>
                 					</div>
               					</article>
@@ -516,7 +516,7 @@
 					                    	<span class="aa-price">
 					                      		$2.700.-
 					                    	</span>
-                    						<a href="#" class="aa-secondary-btn">Ver más detalles</a>
+                    						<a href="detalle" class="aa-secondary-btn">Ver más detalles</a>
                   						</div>
                 					</div>
               					</article>

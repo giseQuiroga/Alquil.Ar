@@ -14,7 +14,7 @@ public class FormularioController {
 	@RequestMapping(value = "/saludo", method = RequestMethod.POST)
 	public ModelAndView crearPersona(@ModelAttribute PersonaDTO persona) {
 		ModelMap model = new ModelMap();
-		model.put("minombre", persona.getNombre()+"-"+persona.getApellido());
+		model.put("minombre", persona.getNombre());
 		
 		return new ModelAndView("saludo",model);
 	}
